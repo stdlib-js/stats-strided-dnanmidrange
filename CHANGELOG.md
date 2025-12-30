@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-26)
+## Unreleased (2025-12-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`eb83311`](https://github.com/stdlib-js/stdlib/commit/eb83311758f6cf348950ac84555127d03dd0155e) - **bench:** fix description _(by Athan Reines)_
 -   [`e88f80d`](https://github.com/stdlib-js/stdlib/commit/e88f80dbfd6514e9949f7b523e703a962c780273) - **feat:** add `stats/strided/dnanmidrange` [(#9374)](https://github.com/stdlib-js/stdlib/pull/9374) _(by Sachin Pangal, Athan Reines)_
 
 </details>
